@@ -42,3 +42,16 @@ colour and graphics support when running Xe(La)TeX.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.94-2
++ Revision: 757595
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.94-1
++ Revision: 719930
+- texlive-xetex-def
+- texlive-xetex-def
+- texlive-xetex-def
+
