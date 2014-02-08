@@ -6,7 +6,7 @@
 # catalog-version 0.94
 Name:		texlive-xetex-def
 Version:	0.94
-Release:	2
+Release:	3
 Summary:	Colour and graphics support for XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/xetex/latex/xetex.def
