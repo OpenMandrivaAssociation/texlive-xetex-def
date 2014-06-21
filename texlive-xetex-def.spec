@@ -1,12 +1,12 @@
-# revision 30729
+# revision 33799
 # category Package
 # catalog-ctan /graphics/xetex/latex/xetex.def
-# catalog-date 2013-02-20 11:06:23 +0100
+# catalog-date 2014-05-02 18:56:42 +0200
 # catalog-license lppl
-# catalog-version 0.95
+# catalog-version 4.01
 Name:		texlive-xetex-def
-Version:	0.95
-Release:	6
+Version:	4.01
+Release:	1
 Summary:	Colour and graphics support for XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/xetex/latex/xetex.def
