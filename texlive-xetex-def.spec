@@ -6,7 +6,7 @@
 # catalog-version 4.01
 Name:		texlive-xetex-def
 Version:	4.01
-Release:	2
+Release:	3
 Summary:	Colour and graphics support for XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/xetex/latex/xetex.def
