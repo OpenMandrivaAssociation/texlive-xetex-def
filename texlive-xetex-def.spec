@@ -9,7 +9,7 @@ Version:	4.01
 Release:	6
 Summary:	Colour and graphics support for XeTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/xetex/latex/xetex.def
+URL:		https://www.ctan.org/tex-archive/graphics/xetex/latex/xetex.def
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xetex-def.tar.xz
 BuildArch:	noarch
